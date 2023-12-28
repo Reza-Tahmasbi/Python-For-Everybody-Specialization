@@ -1,4 +1,6 @@
-![image](https://github.com/Reza-Tahmasbi/Python-For-Everybody-Specialization/assets/121418635/8655f79f-3745-4462-8f1d-629dddd24476)# Python For Everybody Specialization
+![image](https://github.com/Reza-Tahmasbi/Python-For-Everybody-Specialization/assets/121418635/8655f79f-3745-4462-8f1d-629dddd24476)
+
+# Python For Everybody Specialization
 
 Coursera Python for Everybody specialization is offered by University of Michigan.
 # Overview
@@ -11,4 +13,3 @@ This course includes:
      described courses above includes assignments and answers, course materials and some notes.
 
 Many Thanks to Professor Charles Severance, University of Michigan.
-![image]("https://raw.githubusercontent.com/sersavn/coursera-python-for-everybody-specialization/master/cover.jpg")
